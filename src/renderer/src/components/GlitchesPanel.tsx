@@ -33,7 +33,7 @@ export default function GlitchesPanel({ opened }: Props) {
   return (
     <>
       <div className="searchbar">
-        <input placeholder="搜索（复制 / 道具 / 开局 / 时间 …）" value={filter} onChange={(e) => setFilter(e.target.value)} />
+        <input placeholder="搜索（梦幻 / 穿墙 / 复制 / 游走 …）" value={filter} onChange={(e) => setFilter(e.target.value)} />
         <span className="badge">{list.length} 条 · {isGen1Rom ? "第一世代（红/绿/蓝/黄）专属" : "第二世代（金/银/水晶）专属"}</span>
       </div>
       {list.map((g) => {
