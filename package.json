@@ -1,0 +1,36 @@
+{
+  "name": "pokeforge",
+  "version": "0.1.0",
+  "description": "Graphical ROM editor for Pokémon Gen 1-3 (GB/GBC/GBA)",
+  "main": "out/main/index.js",
+  "author": "Robin",
+  "private": true,
+  "scripts": {
+    "dev": "electron-vite dev",
+    "build": "electron-vite build",
+    "start": "electron-vite preview",
+    "typecheck": "tsc --noEmit -p tsconfig.web.json && tsc --noEmit -p tsconfig.node.json",
+    "validate": "tsx scripts/validate-profiles.ts"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "electron": "^33.2.0",
+    "electron-vite": "^2.3.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vite": "^5.4.11"
+  },
+  "dependencies": {
+    "buffer": "^6.0.3",
+    "misans": "^5.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "allowScripts": {
+    "electron@33.4.11": true,
+    "esbuild@0.21.5": true,
+    "esbuild@0.28.2": true
+  }
+}

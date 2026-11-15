@@ -1,0 +1,429 @@
+[
+ {
+  "map": "VioletGym",
+  "cn": "桔梗道馆",
+  "roster": [
+   {
+    "group": 1,
+    "id": 1,
+    "label": "FALKNER.FALKNER1"
+   },
+   {
+    "group": 24,
+    "id": 1,
+    "label": "BIRD_KEEPER.ROD"
+   },
+   {
+    "group": 24,
+    "id": 2,
+    "label": "BIRD_KEEPER.ABE"
+   }
+  ]
+ },
+ {
+  "map": "AzaleaGym",
+  "cn": "桧皮道馆",
+  "roster": [
+   {
+    "group": 3,
+    "id": 1,
+    "label": "BUGSY.BUGSY1"
+   },
+   {
+    "group": 61,
+    "id": 1,
+    "label": "TWINS.AMYANDMAY1"
+   },
+   {
+    "group": 61,
+    "id": 4,
+    "label": "TWINS.AMYANDMAY2"
+   },
+   {
+    "group": 36,
+    "id": 5,
+    "label": "BUG_CATCHER.BENNY"
+   },
+   {
+    "group": 36,
+    "id": 6,
+    "label": "BUG_CATCHER.AL"
+   },
+   {
+    "group": 36,
+    "id": 7,
+    "label": "BUG_CATCHER.JOSH"
+   }
+  ]
+ },
+ {
+  "map": "GoldenrodGym",
+  "cn": "满金道馆",
+  "roster": [
+   {
+    "group": 2,
+    "id": 1,
+    "label": "WHITNEY.WHITNEY1"
+   },
+   {
+    "group": 25,
+    "id": 1,
+    "label": "LASS.CARRIE"
+   },
+   {
+    "group": 25,
+    "id": 2,
+    "label": "LASS.BRIDGET"
+   },
+   {
+    "group": 29,
+    "id": 1,
+    "label": "BEAUTY.VICTORIA"
+   },
+   {
+    "group": 29,
+    "id": 2,
+    "label": "BEAUTY.SAMANTHA"
+   }
+  ]
+ },
+ {
+  "map": "EcruteakGym",
+  "cn": "缘朱道馆",
+  "roster": [
+   {
+    "group": 4,
+    "id": 1,
+    "label": "MORTY.MORTY1"
+   },
+   {
+    "group": 56,
+    "id": 5,
+    "label": "SAGE.JEFFREY"
+   },
+   {
+    "group": 56,
+    "id": 6,
+    "label": "SAGE.PING"
+   },
+   {
+    "group": 57,
+    "id": 1,
+    "label": "MEDIUM.MARTHA"
+   },
+   {
+    "group": 57,
+    "id": 2,
+    "label": "MEDIUM.GRACE"
+   }
+  ]
+ },
+ {
+  "map": "OlivineGym",
+  "cn": "浅黄道馆",
+  "roster": [
+   {
+    "group": 6,
+    "id": 1,
+    "label": "JASMINE.JASMINE1"
+   }
+  ]
+ },
+ {
+  "map": "CianwoodGym",
+  "cn": "湛蓝道馆",
+  "roster": [
+   {
+    "group": 7,
+    "id": 1,
+    "label": "CHUCK.CHUCK1"
+   },
+   {
+    "group": 50,
+    "id": 2,
+    "label": "BLACKBELT_T.YOSHI"
+   },
+   {
+    "group": 50,
+    "id": 4,
+    "label": "BLACKBELT_T.LAO"
+   },
+   {
+    "group": 50,
+    "id": 5,
+    "label": "BLACKBELT_T.NOB"
+   },
+   {
+    "group": 50,
+    "id": 7,
+    "label": "BLACKBELT_T.LUNG"
+   }
+  ]
+ },
+ {
+  "map": "MahoganyGym",
+  "cn": "卡吉道馆",
+  "roster": [
+   {
+    "group": 5,
+    "id": 1,
+    "label": "PRYCE.PRYCE1"
+   },
+   {
+    "group": 33,
+    "id": 1,
+    "label": "SKIER.ROXANNE"
+   },
+   {
+    "group": 33,
+    "id": 2,
+    "label": "SKIER.CLARISSA"
+   },
+   {
+    "group": 58,
+    "id": 1,
+    "label": "BOARDER.RONALD"
+   },
+   {
+    "group": 58,
+    "id": 2,
+    "label": "BOARDER.BRAD"
+   },
+   {
+    "group": 58,
+    "id": 3,
+    "label": "BOARDER.DOUGLAS"
+   }
+  ]
+ },
+ {
+  "map": "BlackthornGym1F",
+  "cn": "烟墨道馆1F",
+  "roster": [
+   {
+    "group": 8,
+    "id": 1,
+    "label": "CLAIR.CLAIR1"
+   },
+   {
+    "group": 27,
+    "id": 3,
+    "label": "COOLTRAINERM.PAUL"
+   },
+   {
+    "group": 27,
+    "id": 5,
+    "label": "COOLTRAINERM.MIKE"
+   },
+   {
+    "group": 28,
+    "id": 4,
+    "label": "COOLTRAINERF.LOLA"
+   }
+  ]
+ },
+ {
+  "map": "BlackthornGym2F",
+  "cn": "烟墨道馆2F",
+  "roster": [
+   {
+    "group": 27,
+    "id": 4,
+    "label": "COOLTRAINERM.CODY"
+   },
+   {
+    "group": 28,
+    "id": 3,
+    "label": "COOLTRAINERF.FRAN"
+   }
+  ]
+ },
+ {
+  "map": "PewterGym",
+  "cn": "尼比道馆（关都）",
+  "roster": [
+   {
+    "group": 17,
+    "id": 1,
+    "label": "BROCK.BROCK1"
+   },
+   {
+    "group": 54,
+    "id": 12,
+    "label": "CAMPER.JERRY"
+   }
+  ]
+ },
+ {
+  "map": "CeruleanGym",
+  "cn": "华蓝道馆（关都）",
+  "roster": [
+   {
+    "group": 18,
+    "id": 1,
+    "label": "MISTY.MISTY1"
+   },
+   {
+    "group": 39,
+    "id": 12,
+    "label": "SWIMMERF.DIANA"
+   },
+   {
+    "group": 39,
+    "id": 13,
+    "label": "SWIMMERF.BRIANA"
+   },
+   {
+    "group": 38,
+    "id": 13,
+    "label": "SWIMMERM.PARKER"
+   }
+  ]
+ },
+ {
+  "map": "VermilionGym",
+  "cn": "枯叶道馆（关都）",
+  "roster": [
+   {
+    "group": 19,
+    "id": 1,
+    "label": "LT_SURGE.LT_SURGE1"
+   },
+   {
+    "group": 32,
+    "id": 3,
+    "label": "GENTLEMAN.GREGORY"
+   },
+   {
+    "group": 43,
+    "id": 2,
+    "label": "GUITARIST.VINCENT"
+   },
+   {
+    "group": 49,
+    "id": 3,
+    "label": "JUGGLER.HORTON"
+   }
+  ]
+ },
+ {
+  "map": "CeladonGym",
+  "cn": "玉虹道馆（关都）",
+  "roster": [
+   {
+    "group": 21,
+    "id": 1,
+    "label": "ERIKA.ERIKA1"
+   },
+   {
+    "group": 25,
+    "id": 9,
+    "label": "LASS.MICHELLE"
+   },
+   {
+    "group": 53,
+    "id": 19,
+    "label": "PICNICKER.TANYA"
+   },
+   {
+    "group": 29,
+    "id": 4,
+    "label": "BEAUTY.JULIA"
+   },
+   {
+    "group": 61,
+    "id": 5,
+    "label": "TWINS.JOANDZOE1"
+   },
+   {
+    "group": 61,
+    "id": 6,
+    "label": "TWINS.JOANDZOE2"
+   }
+  ]
+ },
+ {
+  "map": "FuchsiaGym",
+  "cn": "浅红道馆（关都）",
+  "roster": [
+   {
+    "group": 26,
+    "id": 1,
+    "label": "JANINE.JANINE1"
+   },
+   {
+    "group": 25,
+    "id": 3,
+    "label": "LASS.ALICE"
+   },
+   {
+    "group": 25,
+    "id": 6,
+    "label": "LASS.LINDA"
+   },
+   {
+    "group": 53,
+    "id": 5,
+    "label": "PICNICKER.CINDY"
+   },
+   {
+    "group": 54,
+    "id": 5,
+    "label": "CAMPER.BARRY"
+   }
+  ]
+ },
+ {
+  "map": "SaffronGym",
+  "cn": "金黄道馆（关都）",
+  "roster": [
+   {
+    "group": 35,
+    "id": 1,
+    "label": "SABRINA.SABRINA1"
+   },
+   {
+    "group": 57,
+    "id": 3,
+    "label": "MEDIUM.REBECCA"
+   },
+   {
+    "group": 52,
+    "id": 2,
+    "label": "PSYCHIC_T.FRANKLIN"
+   },
+   {
+    "group": 57,
+    "id": 4,
+    "label": "MEDIUM.DORIS"
+   },
+   {
+    "group": 52,
+    "id": 11,
+    "label": "PSYCHIC_T.JARED"
+   }
+  ]
+ },
+ {
+  "map": "ViridianGym",
+  "cn": "常磐道馆（关都）",
+  "roster": [
+   {
+    "group": 64,
+    "id": 1,
+    "label": "BLUE.BLUE1"
+   }
+  ]
+ },
+ {
+  "map": "SeafoamGym",
+  "cn": "双子岛道馆（关都）",
+  "roster": [
+   {
+    "group": 46,
+    "id": 1,
+    "label": "BLAINE.BLAINE1"
+   }
+  ]
+ }
+]

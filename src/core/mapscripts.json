@@ -1,0 +1,1842 @@
+[
+ {
+  "label": "SproutTower1F",
+  "bank": 66,
+  "addr": 16384
+ },
+ {
+  "label": "SproutTower2F",
+  "bank": 66,
+  "addr": 17022
+ },
+ {
+  "label": "SproutTower3F",
+  "bank": 66,
+  "addr": 17471
+ },
+ {
+  "label": "TinTower1F",
+  "bank": 66,
+  "addr": 19227
+ },
+ {
+  "label": "TinTower2F",
+  "bank": 66,
+  "addr": 19596
+ },
+ {
+  "label": "TinTower3F",
+  "bank": 66,
+  "addr": 19614
+ },
+ {
+  "label": "TinTower4F",
+  "bank": 66,
+  "addr": 19647
+ },
+ {
+  "label": "TinTower5F",
+  "bank": 66,
+  "addr": 19728
+ },
+ {
+  "label": "TinTower6F",
+  "bank": 66,
+  "addr": 19787
+ },
+ {
+  "label": "TinTower7F",
+  "bank": 66,
+  "addr": 19805
+ },
+ {
+  "label": "TinTower8F",
+  "bank": 66,
+  "addr": 19853
+ },
+ {
+  "label": "TinTower9F",
+  "bank": 66,
+  "addr": 19936
+ },
+ {
+  "label": "BurnedTower1F",
+  "bank": 66,
+  "addr": 20012
+ },
+ {
+  "label": "BurnedTowerB1F",
+  "bank": 66,
+  "addr": 21432
+ },
+ {
+  "label": "DiglettsCave",
+  "bank": 66,
+  "addr": 21794
+ },
+ {
+  "label": "MountMoon",
+  "bank": 66,
+  "addr": 21921
+ },
+ {
+  "label": "UndergroundPath",
+  "bank": 66,
+  "addr": 22713
+ },
+ {
+  "label": "RockTunnel1F",
+  "bank": 66,
+  "addr": 22747
+ },
+ {
+  "label": "RockTunnelB1F",
+  "bank": 66,
+  "addr": 22831
+ },
+ {
+  "label": "SafariZoneFuchsiaGateBeta",
+  "bank": 66,
+  "addr": 22912
+ },
+ {
+  "label": "SafariZoneBeta",
+  "bank": 66,
+  "addr": 22940
+ },
+ {
+  "label": "VictoryRoad",
+  "bank": 66,
+  "addr": 22958
+ },
+ {
+  "label": "NationalPark",
+  "bank": 67,
+  "addr": 16384
+ },
+ {
+  "label": "NationalParkBugContest",
+  "bank": 67,
+  "addr": 18558
+ },
+ {
+  "label": "RadioTower1F",
+  "bank": 67,
+  "addr": 19663
+ },
+ {
+  "label": "RadioTower2F",
+  "bank": 67,
+  "addr": 22152
+ },
+ {
+  "label": "RadioTower3F",
+  "bank": 67,
+  "addr": 23516
+ },
+ {
+  "label": "RadioTower4F",
+  "bank": 67,
+  "addr": 25118
+ },
+ {
+  "label": "RadioTower5F",
+  "bank": 67,
+  "addr": 26423
+ },
+ {
+  "label": "RuinsOfAlphOutside",
+  "bank": 68,
+  "addr": 16384
+ },
+ {
+  "label": "RuinsOfAlphHoOhChamber",
+  "bank": 68,
+  "addr": 17394
+ },
+ {
+  "label": "RuinsOfAlphKabutoChamber",
+  "bank": 68,
+  "addr": 17606
+ },
+ {
+  "label": "RuinsOfAlphOmanyteChamber",
+  "bank": 68,
+  "addr": 18033
+ },
+ {
+  "label": "RuinsOfAlphAerodactylChamber",
+  "bank": 68,
+  "addr": 18251
+ },
+ {
+  "label": "RuinsOfAlphInnerChamber",
+  "bank": 68,
+  "addr": 18467
+ },
+ {
+  "label": "RuinsOfAlphResearchCenter",
+  "bank": 68,
+  "addr": 18996
+ },
+ {
+  "label": "UnionCave1F",
+  "bank": 68,
+  "addr": 20459
+ },
+ {
+  "label": "UnionCaveB1F",
+  "bank": 68,
+  "addr": 21525
+ },
+ {
+  "label": "UnionCaveB2F",
+  "bank": 68,
+  "addr": 22361
+ },
+ {
+  "label": "SlowpokeWellB1F",
+  "bank": 68,
+  "addr": 23076
+ },
+ {
+  "label": "SlowpokeWellB2F",
+  "bank": 68,
+  "addr": 24929
+ },
+ {
+  "label": "OlivineLighthouse1F",
+  "bank": 68,
+  "addr": 25277
+ },
+ {
+  "label": "OlivineLighthouse2F",
+  "bank": 68,
+  "addr": 25543
+ },
+ {
+  "label": "OlivineLighthouse3F",
+  "bank": 68,
+  "addr": 26085
+ },
+ {
+  "label": "OlivineLighthouse4F",
+  "bank": 68,
+  "addr": 26770
+ },
+ {
+  "label": "OlivineLighthouse5F",
+  "bank": 68,
+  "addr": 27324
+ },
+ {
+  "label": "OlivineLighthouse6F",
+  "bank": 68,
+  "addr": 27851
+ },
+ {
+  "label": "MahoganyMart1F",
+  "bank": 69,
+  "addr": 16384
+ },
+ {
+  "label": "TeamRocketBaseB1F",
+  "bank": 69,
+  "addr": 17164
+ },
+ {
+  "label": "TeamRocketBaseB2F",
+  "bank": 69,
+  "addr": 19499
+ },
+ {
+  "label": "TeamRocketBaseB3F",
+  "bank": 69,
+  "addr": 23692
+ },
+ {
+  "label": "IlexForest",
+  "bank": 69,
+  "addr": 26535
+ },
+ {
+  "label": "GoldenrodUnderground",
+  "bank": 70,
+  "addr": 16384
+ },
+ {
+  "label": "GoldenrodUndergroundSwitchRoomEntrances",
+  "bank": 70,
+  "addr": 18866
+ },
+ {
+  "label": "GoldenrodDeptStoreB1F",
+  "bank": 70,
+  "addr": 22339
+ },
+ {
+  "label": "GoldenrodUndergroundWarehouse",
+  "bank": 70,
+  "addr": 22806
+ },
+ {
+  "label": "MountMortar1FOutside",
+  "bank": 70,
+  "addr": 23984
+ },
+ {
+  "label": "MountMortar1FInside",
+  "bank": 70,
+  "addr": 24075
+ },
+ {
+  "label": "MountMortar2FInside",
+  "bank": 70,
+  "addr": 24182
+ },
+ {
+  "label": "MountMortarB1F",
+  "bank": 70,
+  "addr": 24298
+ },
+ {
+  "label": "IcePath1F",
+  "bank": 70,
+  "addr": 24889
+ },
+ {
+  "label": "IcePathB1F",
+  "bank": 70,
+  "addr": 24947
+ },
+ {
+  "label": "IcePathB2FMahoganySide",
+  "bank": 70,
+  "addr": 25179
+ },
+ {
+  "label": "IcePathB2FBlackthornSide",
+  "bank": 70,
+  "addr": 25342
+ },
+ {
+  "label": "IcePathB3F",
+  "bank": 70,
+  "addr": 25383
+ },
+ {
+  "label": "WhirlIslandNW",
+  "bank": 71,
+  "addr": 16384
+ },
+ {
+  "label": "WhirlIslandNE",
+  "bank": 71,
+  "addr": 16412
+ },
+ {
+  "label": "WhirlIslandSW",
+  "bank": 71,
+  "addr": 16450
+ },
+ {
+  "label": "WhirlIslandCave",
+  "bank": 71,
+  "addr": 16498
+ },
+ {
+  "label": "WhirlIslandSE",
+  "bank": 71,
+  "addr": 16516
+ },
+ {
+  "label": "WhirlIslandB1F",
+  "bank": 71,
+  "addr": 16534
+ },
+ {
+  "label": "WhirlIslandB2F",
+  "bank": 71,
+  "addr": 16702
+ },
+ {
+  "label": "WhirlIslandLugiaChamber",
+  "bank": 71,
+  "addr": 16775
+ },
+ {
+  "label": "SilverCaveRoom1",
+  "bank": 71,
+  "addr": 16873
+ },
+ {
+  "label": "SilverCaveRoom2",
+  "bank": 71,
+  "addr": 16952
+ },
+ {
+  "label": "SilverCaveRoom3",
+  "bank": 71,
+  "addr": 16988
+ },
+ {
+  "label": "SilverCaveItemRooms",
+  "bank": 71,
+  "addr": 17079
+ },
+ {
+  "label": "DarkCaveVioletEntrance",
+  "bank": 71,
+  "addr": 17127
+ },
+ {
+  "label": "DarkCaveBlackthornEntrance",
+  "bank": 71,
+  "addr": 17258
+ },
+ {
+  "label": "DragonsDen1F",
+  "bank": 71,
+  "addr": 17600
+ },
+ {
+  "label": "DragonsDenB1F",
+  "bank": 71,
+  "addr": 17628
+ },
+ {
+  "label": "TohjoFalls",
+  "bank": 71,
+  "addr": 18976
+ },
+ {
+  "label": "NewBarkTown",
+  "bank": 72,
+  "addr": 16384
+ },
+ {
+  "label": "CherrygroveCity",
+  "bank": 72,
+  "addr": 17355
+ },
+ {
+  "label": "VioletCity",
+  "bank": 72,
+  "addr": 19560
+ },
+ {
+  "label": "AzaleaTown",
+  "bank": 72,
+  "addr": 20694
+ },
+ {
+  "label": "CianwoodCity",
+  "bank": 72,
+  "addr": 22746
+ },
+ {
+  "label": "GoldenrodCity",
+  "bank": 72,
+  "addr": 24129
+ },
+ {
+  "label": "OlivineCity",
+  "bank": 73,
+  "addr": 16384
+ },
+ {
+  "label": "EcruteakCity",
+  "bank": 73,
+  "addr": 17666
+ },
+ {
+  "label": "MahoganyTown",
+  "bank": 73,
+  "addr": 19125
+ },
+ {
+  "label": "LakeOfRage",
+  "bank": 73,
+  "addr": 20236
+ },
+ {
+  "label": "BlackthornCity",
+  "bank": 73,
+  "addr": 22762
+ },
+ {
+  "label": "SilverCaveOutside",
+  "bank": 73,
+  "addr": 24341
+ },
+ {
+  "label": "Route26",
+  "bank": 74,
+  "addr": 16384
+ },
+ {
+  "label": "Route27",
+  "bank": 74,
+  "addr": 18106
+ },
+ {
+  "label": "Route28",
+  "bank": 74,
+  "addr": 19787
+ },
+ {
+  "label": "Route29",
+  "bank": 74,
+  "addr": 19831
+ },
+ {
+  "label": "Route30",
+  "bank": 74,
+  "addr": 21660
+ },
+ {
+  "label": "Route31",
+  "bank": 74,
+  "addr": 23025
+ },
+ {
+  "label": "Route32",
+  "bank": 75,
+  "addr": 16384
+ },
+ {
+  "label": "Route33",
+  "bank": 75,
+  "addr": 20248
+ },
+ {
+  "label": "Route34",
+  "bank": 75,
+  "addr": 20594
+ },
+ {
+  "label": "Route35",
+  "bank": 75,
+  "addr": 23128
+ },
+ {
+  "label": "Route36",
+  "bank": 75,
+  "addr": 24985
+ },
+ {
+  "label": "Route37",
+  "bank": 76,
+  "addr": 16384
+ },
+ {
+  "label": "Route38",
+  "bank": 76,
+  "addr": 17478
+ },
+ {
+  "label": "Route39",
+  "bank": 76,
+  "addr": 18904
+ },
+ {
+  "label": "Route40",
+  "bank": 76,
+  "addr": 20170
+ },
+ {
+  "label": "Route41",
+  "bank": 76,
+  "addr": 21457
+ },
+ {
+  "label": "Route42",
+  "bank": 76,
+  "addr": 23365
+ },
+ {
+  "label": "Route43",
+  "bank": 77,
+  "addr": 16384
+ },
+ {
+  "label": "Route44",
+  "bank": 77,
+  "addr": 18198
+ },
+ {
+  "label": "Route45",
+  "bank": 77,
+  "addr": 20085
+ },
+ {
+  "label": "Route46",
+  "bank": 77,
+  "addr": 21854
+ },
+ {
+  "label": "PewterCity",
+  "bank": 77,
+  "addr": 22575
+ },
+ {
+  "label": "Route2",
+  "bank": 77,
+  "addr": 23488
+ },
+ {
+  "label": "ViridianCity",
+  "bank": 78,
+  "addr": 16384
+ },
+ {
+  "label": "Route22",
+  "bank": 78,
+  "addr": 17655
+ },
+ {
+  "label": "Route1",
+  "bank": 78,
+  "addr": 17711
+ },
+ {
+  "label": "PalletTown",
+  "bank": 78,
+  "addr": 18087
+ },
+ {
+  "label": "Route21",
+  "bank": 78,
+  "addr": 18413
+ },
+ {
+  "label": "CinnabarIsland",
+  "bank": 78,
+  "addr": 18812
+ },
+ {
+  "label": "Route20",
+  "bank": 78,
+  "addr": 19701
+ },
+ {
+  "label": "Route19",
+  "bank": 78,
+  "addr": 20228
+ },
+ {
+  "label": "FuchsiaCity",
+  "bank": 78,
+  "addr": 21439
+ },
+ {
+  "label": "Route18",
+  "bank": 78,
+  "addr": 22182
+ },
+ {
+  "label": "Route17",
+  "bank": 78,
+  "addr": 22557
+ },
+ {
+  "label": "Route16",
+  "bank": 78,
+  "addr": 23178
+ },
+ {
+  "label": "CeladonCity",
+  "bank": 78,
+  "addr": 23287
+ },
+ {
+  "label": "Route7",
+  "bank": 78,
+  "addr": 24697
+ },
+ {
+  "label": "Route15",
+  "bank": 79,
+  "addr": 16384
+ },
+ {
+  "label": "Route14",
+  "bank": 79,
+  "addr": 17427
+ },
+ {
+  "label": "Route13",
+  "bank": 79,
+  "addr": 17973
+ },
+ {
+  "label": "Route12",
+  "bank": 79,
+  "addr": 18954
+ },
+ {
+  "label": "Route11",
+  "bank": 79,
+  "addr": 19854
+ },
+ {
+  "label": "LavenderTown",
+  "bank": 79,
+  "addr": 20513
+ },
+ {
+  "label": "VermilionCity",
+  "bank": 79,
+  "addr": 21101
+ },
+ {
+  "label": "Route6",
+  "bank": 79,
+  "addr": 22552
+ },
+ {
+  "label": "SaffronCity",
+  "bank": 79,
+  "addr": 22711
+ },
+ {
+  "label": "Route5",
+  "bank": 79,
+  "addr": 24339
+ },
+ {
+  "label": "CeruleanCity",
+  "bank": 79,
+  "addr": 24564
+ },
+ {
+  "label": "Route9",
+  "bank": 80,
+  "addr": 16384
+ },
+ {
+  "label": "Route24",
+  "bank": 80,
+  "addr": 17413
+ },
+ {
+  "label": "Route25",
+  "bank": 80,
+  "addr": 18293
+ },
+ {
+  "label": "Route3",
+  "bank": 80,
+  "addr": 20260
+ },
+ {
+  "label": "Route4",
+  "bank": 80,
+  "addr": 20879
+ },
+ {
+  "label": "Route8",
+  "bank": 80,
+  "addr": 21377
+ },
+ {
+  "label": "Route10North",
+  "bank": 80,
+  "addr": 22292
+ },
+ {
+  "label": "Route10South",
+  "bank": 80,
+  "addr": 22345
+ },
+ {
+  "label": "Route23",
+  "bank": 80,
+  "addr": 22659
+ },
+ {
+  "label": "OlivinePokecenter1F",
+  "bank": 81,
+  "addr": 16384
+ },
+ {
+  "label": "OlivineGym",
+  "bank": 81,
+  "addr": 16654
+ },
+ {
+  "label": "OlivineTimsHouse",
+  "bank": 81,
+  "addr": 17723
+ },
+ {
+  "label": "OlivineHouseBeta",
+  "bank": 81,
+  "addr": 17774
+ },
+ {
+  "label": "OlivinePunishmentSpeechHouse",
+  "bank": 81,
+  "addr": 17942
+ },
+ {
+  "label": "OlivineGoodRodHouse",
+  "bank": 81,
+  "addr": 18170
+ },
+ {
+  "label": "OlivineCafe",
+  "bank": 81,
+  "addr": 18592
+ },
+ {
+  "label": "OlivineMart",
+  "bank": 81,
+  "addr": 19099
+ },
+ {
+  "label": "Route38EcruteakGate",
+  "bank": 81,
+  "addr": 19371
+ },
+ {
+  "label": "Route39Barn",
+  "bank": 81,
+  "addr": 19530
+ },
+ {
+  "label": "Route39Farmhouse",
+  "bank": 81,
+  "addr": 20103
+ },
+ {
+  "label": "MahoganyRedGyaradosSpeechHouse",
+  "bank": 81,
+  "addr": 21069
+ },
+ {
+  "label": "MahoganyGym",
+  "bank": 81,
+  "addr": 21356
+ },
+ {
+  "label": "MahoganyPokecenter1F",
+  "bank": 81,
+  "addr": 23588
+ },
+ {
+  "label": "Route42EcruteakGate",
+  "bank": 81,
+  "addr": 23939
+ },
+ {
+  "label": "EcruteakTinTowerEntrance",
+  "bank": 82,
+  "addr": 16384
+ },
+ {
+  "label": "EcruteakTinTowerBackEntrance",
+  "bank": 82,
+  "addr": 17011
+ },
+ {
+  "label": "EcruteakPokecenter1F",
+  "bank": 82,
+  "addr": 17034
+ },
+ {
+  "label": "EcruteakLugiaSpeechHouse",
+  "bank": 82,
+  "addr": 18120
+ },
+ {
+  "label": "DanceTheater",
+  "bank": 82,
+  "addr": 18422
+ },
+ {
+  "label": "EcruteakMart",
+  "bank": 82,
+  "addr": 20349
+ },
+ {
+  "label": "EcruteakGym",
+  "bank": 82,
+  "addr": 20621
+ },
+ {
+  "label": "EcruteakItemfinderHouse",
+  "bank": 82,
+  "addr": 22665
+ },
+ {
+  "label": "BlackthornGym1F",
+  "bank": 83,
+  "addr": 16384
+ },
+ {
+  "label": "BlackthornGym2F",
+  "bank": 83,
+  "addr": 18904
+ },
+ {
+  "label": "BlackthornDragonSpeechHouse",
+  "bank": 83,
+  "addr": 19535
+ },
+ {
+  "label": "BlackthornEmysHouse",
+  "bank": 83,
+  "addr": 19678
+ },
+ {
+  "label": "BlackthornMart",
+  "bank": 83,
+  "addr": 19729
+ },
+ {
+  "label": "BlackthornPokecenter1F",
+  "bank": 83,
+  "addr": 20013
+ },
+ {
+  "label": "MoveDeletersHouse",
+  "bank": 83,
+  "addr": 20328
+ },
+ {
+  "label": "CinnabarPokecenter1F",
+  "bank": 83,
+  "addr": 20380
+ },
+ {
+  "label": "CinnabarPokecenter2FBeta",
+  "bank": 83,
+  "addr": 20569
+ },
+ {
+  "label": "Route19FuchsiaGate",
+  "bank": 83,
+  "addr": 20582
+ },
+ {
+  "label": "SeafoamGym",
+  "bank": 83,
+  "addr": 20838
+ },
+ {
+  "label": "LakeOfRageHiddenPowerHouse",
+  "bank": 83,
+  "addr": 21755
+ },
+ {
+  "label": "LakeOfRageMagikarpHouse",
+  "bank": 83,
+  "addr": 22146
+ },
+ {
+  "label": "Route43MahoganyGate",
+  "bank": 83,
+  "addr": 23263
+ },
+ {
+  "label": "Route43Gate",
+  "bank": 83,
+  "addr": 23438
+ },
+ {
+  "label": "CeruleanGymBadgeSpeechHouse",
+  "bank": 84,
+  "addr": 16384
+ },
+ {
+  "label": "CeruleanPoliceStation",
+  "bank": 84,
+  "addr": 16456
+ },
+ {
+  "label": "CeruleanTradeSpeechHouse",
+  "bank": 84,
+  "addr": 16689
+ },
+ {
+  "label": "CeruleanPokecenter1F",
+  "bank": 84,
+  "addr": 16909
+ },
+ {
+  "label": "CeruleanPokecenter2FBeta",
+  "bank": 84,
+  "addr": 17178
+ },
+ {
+  "label": "CeruleanGym",
+  "bank": 84,
+  "addr": 17191
+ },
+ {
+  "label": "CeruleanMart",
+  "bank": 84,
+  "addr": 18966
+ },
+ {
+  "label": "Route10Pokecenter1F",
+  "bank": 84,
+  "addr": 19242
+ },
+ {
+  "label": "Route10Pokecenter2FBeta",
+  "bank": 84,
+  "addr": 19716
+ },
+ {
+  "label": "PowerPlant",
+  "bank": 84,
+  "addr": 19729
+ },
+ {
+  "label": "BillsHouse",
+  "bank": 84,
+  "addr": 21626
+ },
+ {
+  "label": "AzaleaPokecenter1F",
+  "bank": 85,
+  "addr": 16384
+ },
+ {
+  "label": "CharcoalKiln",
+  "bank": 85,
+  "addr": 16785
+ },
+ {
+  "label": "AzaleaMart",
+  "bank": 85,
+  "addr": 17591
+ },
+ {
+  "label": "KurtsHouse",
+  "bank": 85,
+  "addr": 17864
+ },
+ {
+  "label": "AzaleaGym",
+  "bank": 85,
+  "addr": 19860
+ },
+ {
+  "label": "VioletMart",
+  "bank": 86,
+  "addr": 16384
+ },
+ {
+  "label": "VioletGym",
+  "bank": 86,
+  "addr": 16685
+ },
+ {
+  "label": "EarlsPokemonAcademy",
+  "bank": 86,
+  "addr": 18375
+ },
+ {
+  "label": "VioletNicknameSpeechHouse",
+  "bank": 86,
+  "addr": 20820
+ },
+ {
+  "label": "VioletPokecenter1F",
+  "bank": 86,
+  "addr": 21044
+ },
+ {
+  "label": "VioletKylesHouse",
+  "bank": 86,
+  "addr": 22044
+ },
+ {
+  "label": "Route32RuinsOfAlphGate",
+  "bank": 86,
+  "addr": 22204
+ },
+ {
+  "label": "Route32Pokecenter1F",
+  "bank": 86,
+  "addr": 22497
+ },
+ {
+  "label": "Route35GoldenrodGate",
+  "bank": 86,
+  "addr": 22988
+ },
+ {
+  "label": "Route35NationalParkGate",
+  "bank": 86,
+  "addr": 23954
+ },
+ {
+  "label": "Route36RuinsOfAlphGate",
+  "bank": 86,
+  "addr": 26117
+ },
+ {
+  "label": "Route36NationalParkGate",
+  "bank": 86,
+  "addr": 26346
+ },
+ {
+  "label": "GoldenrodGym",
+  "bank": 87,
+  "addr": 16384
+ },
+ {
+  "label": "GoldenrodBikeShop",
+  "bank": 87,
+  "addr": 18263
+ },
+ {
+  "label": "GoldenrodHappinessRater",
+  "bank": 87,
+  "addr": 18779
+ },
+ {
+  "label": "BillsFamilysHouse",
+  "bank": 87,
+  "addr": 19436
+ },
+ {
+  "label": "GoldenrodMagnetTrainStation",
+  "bank": 87,
+  "addr": 20580
+ },
+ {
+  "label": "GoldenrodFlowerShop",
+  "bank": 87,
+  "addr": 21199
+ },
+ {
+  "label": "GoldenrodPokecenter1F",
+  "bank": 87,
+  "addr": 21757
+ },
+ {
+  "label": "GoldenrodPPSpeechHouse",
+  "bank": 87,
+  "addr": 22253
+ },
+ {
+  "label": "GoldenrodNameRater",
+  "bank": 87,
+  "addr": 22559
+ },
+ {
+  "label": "GoldenrodDeptStore1F",
+  "bank": 87,
+  "addr": 23076
+ },
+ {
+  "label": "GoldenrodDeptStore2F",
+  "bank": 87,
+  "addr": 23535
+ },
+ {
+  "label": "GoldenrodDeptStore3F",
+  "bank": 87,
+  "addr": 24136
+ },
+ {
+  "label": "GoldenrodDeptStore4F",
+  "bank": 87,
+  "addr": 24444
+ },
+ {
+  "label": "GoldenrodDeptStore5F",
+  "bank": 87,
+  "addr": 24864
+ },
+ {
+  "label": "GoldenrodDeptStore6F",
+  "bank": 87,
+  "addr": 25736
+ },
+ {
+  "label": "GoldenrodDeptStoreElevator",
+  "bank": 87,
+  "addr": 26406
+ },
+ {
+  "label": "GoldenrodGameCorner",
+  "bank": 87,
+  "addr": 26530
+ },
+ {
+  "label": "IlexForestAzaleaGate",
+  "bank": 87,
+  "addr": 28452
+ },
+ {
+  "label": "Route34IlexForestGate",
+  "bank": 87,
+  "addr": 28628
+ },
+ {
+  "label": "DayCare",
+  "bank": 87,
+  "addr": 29056
+ },
+ {
+  "label": "VermilionFishingSpeechHouse",
+  "bank": 89,
+  "addr": 16384
+ },
+ {
+  "label": "VermilionPokecenter1F",
+  "bank": 89,
+  "addr": 16728
+ },
+ {
+  "label": "VermilionPokecenter2FBeta",
+  "bank": 89,
+  "addr": 17201
+ },
+ {
+  "label": "PokemonFanClub",
+  "bank": 89,
+  "addr": 17214
+ },
+ {
+  "label": "VermilionMagnetTrainSpeechHouse",
+  "bank": 89,
+  "addr": 18956
+ },
+ {
+  "label": "VermilionMart",
+  "bank": 89,
+  "addr": 19155
+ },
+ {
+  "label": "VermilionDiglettsCaveSpeechHouse",
+  "bank": 89,
+  "addr": 19334
+ },
+ {
+  "label": "VermilionGym",
+  "bank": 89,
+  "addr": 19450
+ },
+ {
+  "label": "Route6SaffronGate",
+  "bank": 89,
+  "addr": 21045
+ },
+ {
+  "label": "Route6UndergroundPathEntrance",
+  "bank": 89,
+  "addr": 21376
+ },
+ {
+  "label": "RedsHouse1F",
+  "bank": 89,
+  "addr": 21399
+ },
+ {
+  "label": "RedsHouse2F",
+  "bank": 89,
+  "addr": 21827
+ },
+ {
+  "label": "BluesHouse",
+  "bank": 89,
+  "addr": 21961
+ },
+ {
+  "label": "OaksLab",
+  "bank": 89,
+  "addr": 22720
+ },
+ {
+  "label": "PewterNidoranSpeechHouse",
+  "bank": 90,
+  "addr": 16384
+ },
+ {
+  "label": "PewterGym",
+  "bank": 90,
+  "addr": 16477
+ },
+ {
+  "label": "PewterMart",
+  "bank": 90,
+  "addr": 17860
+ },
+ {
+  "label": "PewterPokecenter1F",
+  "bank": 90,
+  "addr": 18144
+ },
+ {
+  "label": "PewterPokecenter2FBeta",
+  "bank": 90,
+  "addr": 18501
+ },
+ {
+  "label": "PewterSnoozeSpeechHouse",
+  "bank": 90,
+  "addr": 18514
+ },
+ {
+  "label": "IndigoPlateauPokecenter1F",
+  "bank": 90,
+  "addr": 18604
+ },
+ {
+  "label": "WillsRoom",
+  "bank": 90,
+  "addr": 19813
+ },
+ {
+  "label": "KogasRoom",
+  "bank": 90,
+  "addr": 20423
+ },
+ {
+  "label": "BrunosRoom",
+  "bank": 90,
+  "addr": 21042
+ },
+ {
+  "label": "KarensRoom",
+  "bank": 90,
+  "addr": 21595
+ },
+ {
+  "label": "LancesRoom",
+  "bank": 90,
+  "addr": 22232
+ },
+ {
+  "label": "HallOfFame",
+  "bank": 90,
+  "addr": 23792
+ },
+ {
+  "label": "OlivinePort",
+  "bank": 91,
+  "addr": 16384
+ },
+ {
+  "label": "VermilionPort",
+  "bank": 91,
+  "addr": 17656
+ },
+ {
+  "label": "FastShip1F",
+  "bank": 91,
+  "addr": 18585
+ },
+ {
+  "label": "FastShipCabins_NNW_NNE_NE",
+  "bank": 91,
+  "addr": 19694
+ },
+ {
+  "label": "FastShipCabins_SW_SSW_NW",
+  "bank": 91,
+  "addr": 20937
+ },
+ {
+  "label": "FastShipCabins_SE_SSE_CaptainsCabin",
+  "bank": 91,
+  "addr": 21935
+ },
+ {
+  "label": "FastShipB1F",
+  "bank": 91,
+  "addr": 24064
+ },
+ {
+  "label": "OlivinePortPassage",
+  "bank": 91,
+  "addr": 26234
+ },
+ {
+  "label": "VermilionPortPassage",
+  "bank": 91,
+  "addr": 26344
+ },
+ {
+  "label": "MountMoonSquare",
+  "bank": 91,
+  "addr": 26454
+ },
+ {
+  "label": "MountMoonGiftShop",
+  "bank": 91,
+  "addr": 26741
+ },
+ {
+  "label": "TinTowerRoof",
+  "bank": 91,
+  "addr": 26874
+ },
+ {
+  "label": "FuchsiaMart",
+  "bank": 92,
+  "addr": 16384
+ },
+ {
+  "label": "SafariZoneMainOffice",
+  "bank": 92,
+  "addr": 16575
+ },
+ {
+  "label": "FuchsiaGym",
+  "bank": 92,
+  "addr": 16593
+ },
+ {
+  "label": "BillsOlderSistersHouse",
+  "bank": 92,
+  "addr": 18140
+ },
+ {
+  "label": "FuchsiaPokecenter1F",
+  "bank": 92,
+  "addr": 18291
+ },
+ {
+  "label": "FuchsiaPokecenter2FBeta",
+  "bank": 92,
+  "addr": 18648
+ },
+ {
+  "label": "SafariZoneWardensHome",
+  "bank": 92,
+  "addr": 18661
+ },
+ {
+  "label": "Route15FuchsiaGate",
+  "bank": 92,
+  "addr": 19133
+ },
+ {
+  "label": "SilverCavePokecenter1F",
+  "bank": 92,
+  "addr": 19241
+ },
+ {
+  "label": "Route28SteelWingHouse",
+  "bank": 92,
+  "addr": 19426
+ },
+ {
+  "label": "Pokecenter2F",
+  "bank": 92,
+  "addr": 19751
+ },
+ {
+  "label": "TradeCenter",
+  "bank": 92,
+  "addr": 21638
+ },
+ {
+  "label": "Colosseum",
+  "bank": 92,
+  "addr": 21767
+ },
+ {
+  "label": "TimeCapsule",
+  "bank": 92,
+  "addr": 21896
+ },
+ {
+  "label": "LavenderPokecenter1F",
+  "bank": 93,
+  "addr": 16384
+ },
+ {
+  "label": "LavenderPokecenter2FBeta",
+  "bank": 93,
+  "addr": 16876
+ },
+ {
+  "label": "MrFujisHouse",
+  "bank": 93,
+  "addr": 16889
+ },
+ {
+  "label": "LavenderSpeechHouse",
+  "bank": 93,
+  "addr": 17270
+ },
+ {
+  "label": "LavenderNameRater",
+  "bank": 93,
+  "addr": 17436
+ },
+ {
+  "label": "LavenderMart",
+  "bank": 93,
+  "addr": 17483
+ },
+ {
+  "label": "SoulHouse",
+  "bank": 93,
+  "addr": 17784
+ },
+ {
+  "label": "LavRadioTower1F",
+  "bank": 93,
+  "addr": 18324
+ },
+ {
+  "label": "Route8SaffronGate",
+  "bank": 93,
+  "addr": 19799
+ },
+ {
+  "label": "Route12SuperRodHouse",
+  "bank": 93,
+  "addr": 19909
+ },
+ {
+  "label": "ManiasHouse",
+  "bank": 93,
+  "addr": 20331
+ },
+ {
+  "label": "CianwoodGym",
+  "bank": 93,
+  "addr": 21250
+ },
+ {
+  "label": "CianwoodPokecenter1F",
+  "bank": 93,
+  "addr": 22720
+ },
+ {
+  "label": "CianwoodPharmacy",
+  "bank": 93,
+  "addr": 23187
+ },
+ {
+  "label": "CianwoodPhotoStudio",
+  "bank": 93,
+  "addr": 23514
+ },
+ {
+  "label": "CianwoodLugiaSpeechHouse",
+  "bank": 93,
+  "addr": 23722
+ },
+ {
+  "label": "CeladonDeptStore1F",
+  "bank": 94,
+  "addr": 16384
+ },
+ {
+  "label": "CeladonDeptStore2F",
+  "bank": 94,
+  "addr": 16847
+ },
+ {
+  "label": "CeladonDeptStore3F",
+  "bank": 94,
+  "addr": 17227
+ },
+ {
+  "label": "CeladonDeptStore4F",
+  "bank": 94,
+  "addr": 17711
+ },
+ {
+  "label": "CeladonDeptStore5F",
+  "bank": 94,
+  "addr": 17958
+ },
+ {
+  "label": "CeladonDeptStore6F",
+  "bank": 94,
+  "addr": 18324
+ },
+ {
+  "label": "CeladonDeptStoreElevator",
+  "bank": 94,
+  "addr": 18887
+ },
+ {
+  "label": "CeladonMansion1F",
+  "bank": 94,
+  "addr": 18953
+ },
+ {
+  "label": "CeladonMansion2F",
+  "bank": 94,
+  "addr": 19274
+ },
+ {
+  "label": "CeladonMansion3F",
+  "bank": 94,
+  "addr": 19594
+ },
+ {
+  "label": "CeladonMansionRoof",
+  "bank": 94,
+  "addr": 20563
+ },
+ {
+  "label": "CeladonMansionRoofHouse",
+  "bank": 94,
+  "addr": 20609
+ },
+ {
+  "label": "CeladonPokecenter1F",
+  "bank": 94,
+  "addr": 21414
+ },
+ {
+  "label": "CeladonPokecenter2FBeta",
+  "bank": 94,
+  "addr": 21679
+ },
+ {
+  "label": "CeladonGameCorner",
+  "bank": 94,
+  "addr": 21692
+ },
+ {
+  "label": "CeladonGameCornerPrizeRoom",
+  "bank": 94,
+  "addr": 23176
+ },
+ {
+  "label": "CeladonGym",
+  "bank": 94,
+  "addr": 24073
+ },
+ {
+  "label": "CeladonCafe",
+  "bank": 94,
+  "addr": 25635
+ },
+ {
+  "label": "Route16FuchsiaSpeechHouse",
+  "bank": 94,
+  "addr": 26447
+ },
+ {
+  "label": "Route16Gate",
+  "bank": 94,
+  "addr": 26561
+ },
+ {
+  "label": "Route7SaffronGate",
+  "bank": 94,
+  "addr": 26868
+ },
+ {
+  "label": "Route17Route18Gate",
+  "bank": 94,
+  "addr": 27109
+ },
+ {
+  "label": "ViridianGym",
+  "bank": 95,
+  "addr": 16384
+ },
+ {
+  "label": "ViridianNicknameSpeechHouse",
+  "bank": 95,
+  "addr": 17426
+ },
+ {
+  "label": "TrainerHouse1F",
+  "bank": 95,
+  "addr": 17727
+ },
+ {
+  "label": "TrainerHouseB1F",
+  "bank": 95,
+  "addr": 18782
+ },
+ {
+  "label": "ViridianMart",
+  "bank": 95,
+  "addr": 19396
+ },
+ {
+  "label": "ViridianPokecenter1F",
+  "bank": 95,
+  "addr": 19565
+ },
+ {
+  "label": "ViridianPokecenter2FBeta",
+  "bank": 95,
+  "addr": 19991
+ },
+ {
+  "label": "Route2NuggetHouse",
+  "bank": 95,
+  "addr": 20004
+ },
+ {
+  "label": "Route2Gate",
+  "bank": 95,
+  "addr": 20271
+ },
+ {
+  "label": "VictoryRoadGate",
+  "bank": 95,
+  "addr": 20432
+ },
+ {
+  "label": "ElmsLab",
+  "bank": 96,
+  "addr": 16384
+ },
+ {
+  "label": "PlayersHouse1F",
+  "bank": 96,
+  "addr": 22080
+ },
+ {
+  "label": "PlayersHouse2F",
+  "bank": 96,
+  "addr": 23526
+ },
+ {
+  "label": "PlayersNeighborsHouse",
+  "bank": 96,
+  "addr": 23844
+ },
+ {
+  "label": "ElmsHouse",
+  "bank": 96,
+  "addr": 24234
+ },
+ {
+  "label": "Route26HealHouse",
+  "bank": 96,
+  "addr": 24804
+ },
+ {
+  "label": "DayOfWeekSiblingsHouse",
+  "bank": 96,
+  "addr": 24992
+ },
+ {
+  "label": "Route27SandstormHouse",
+  "bank": 96,
+  "addr": 25424
+ },
+ {
+  "label": "Route29Route46Gate",
+  "bank": 96,
+  "addr": 25975
+ },
+ {
+  "label": "FightingDojo",
+  "bank": 97,
+  "addr": 16384
+ },
+ {
+  "label": "SaffronGym",
+  "bank": 97,
+  "addr": 16589
+ },
+ {
+  "label": "SaffronMart",
+  "bank": 97,
+  "addr": 18526
+ },
+ {
+  "label": "SaffronPokecenter1F",
+  "bank": 97,
+  "addr": 18716
+ },
+ {
+  "label": "SaffronPokecenter2FBeta",
+  "bank": 97,
+  "addr": 19206
+ },
+ {
+  "label": "MrPsychicsHouse",
+  "bank": 97,
+  "addr": 19219
+ },
+ {
+  "label": "SaffronMagnetTrainStation",
+  "bank": 97,
+  "addr": 19387
+ },
+ {
+  "label": "SilphCo1F",
+  "bank": 97,
+  "addr": 20348
+ },
+ {
+  "label": "CopycatsHouse1F",
+  "bank": 97,
+  "addr": 20650
+ },
+ {
+  "label": "CopycatsHouse2F",
+  "bank": 97,
+  "addr": 21043
+ },
+ {
+  "label": "Route5UndergroundPathEntrance",
+  "bank": 97,
+  "addr": 22269
+ },
+ {
+  "label": "Route5SaffronGate",
+  "bank": 97,
+  "addr": 22369
+ },
+ {
+  "label": "Route5CleanseTagHouse",
+  "bank": 97,
+  "addr": 22492
+ },
+ {
+  "label": "CherrygroveMart",
+  "bank": 98,
+  "addr": 16384
+ },
+ {
+  "label": "CherrygrovePokecenter1F",
+  "bank": 98,
+  "addr": 16739
+ },
+ {
+  "label": "CherrygroveGymSpeechHouse",
+  "bank": 98,
+  "addr": 17111
+ },
+ {
+  "label": "GuideGentsHouse",
+  "bank": 98,
+  "addr": 17405
+ },
+ {
+  "label": "CherrygroveEvolutionSpeechHouse",
+  "bank": 98,
+  "addr": 17576
+ },
+ {
+  "label": "Route30BerryHouse",
+  "bank": 98,
+  "addr": 17754
+ },
+ {
+  "label": "MrPokemonsHouse",
+  "bank": 98,
+  "addr": 17983
+ },
+ {
+  "label": "Route31VioletGate",
+  "bank": 98,
+  "addr": 20001
+ }
+]

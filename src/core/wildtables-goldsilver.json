@@ -1,0 +1,771 @@
+{
+ "grass": [
+  {
+   "label": "SPROUT_TOWER_2F",
+   "bank": 10,
+   "addr": 27445
+  },
+  {
+   "label": "SPROUT_TOWER_3F",
+   "bank": 10,
+   "addr": 27492
+  },
+  {
+   "label": "TIN_TOWER_2F",
+   "bank": 10,
+   "addr": 27539
+  },
+  {
+   "label": "TIN_TOWER_3F",
+   "bank": 10,
+   "addr": 27586
+  },
+  {
+   "label": "TIN_TOWER_4F",
+   "bank": 10,
+   "addr": 27633
+  },
+  {
+   "label": "TIN_TOWER_5F",
+   "bank": 10,
+   "addr": 27680
+  },
+  {
+   "label": "TIN_TOWER_6F",
+   "bank": 10,
+   "addr": 27727
+  },
+  {
+   "label": "TIN_TOWER_7F",
+   "bank": 10,
+   "addr": 27774
+  },
+  {
+   "label": "TIN_TOWER_8F",
+   "bank": 10,
+   "addr": 27821
+  },
+  {
+   "label": "TIN_TOWER_9F",
+   "bank": 10,
+   "addr": 27868
+  },
+  {
+   "label": "BURNED_TOWER_1F",
+   "bank": 10,
+   "addr": 27915
+  },
+  {
+   "label": "BURNED_TOWER_B1F",
+   "bank": 10,
+   "addr": 27962
+  },
+  {
+   "label": "NATIONAL_PARK",
+   "bank": 10,
+   "addr": 28009
+  },
+  {
+   "label": "RUINS_OF_ALPH_OUTSIDE",
+   "bank": 10,
+   "addr": 28056
+  },
+  {
+   "label": "RUINS_OF_ALPH_INNER_CHAMBER",
+   "bank": 10,
+   "addr": 28103
+  },
+  {
+   "label": "UNION_CAVE_1F",
+   "bank": 10,
+   "addr": 28150
+  },
+  {
+   "label": "UNION_CAVE_B1F",
+   "bank": 10,
+   "addr": 28197
+  },
+  {
+   "label": "UNION_CAVE_B2F",
+   "bank": 10,
+   "addr": 28244
+  },
+  {
+   "label": "SLOWPOKE_WELL_B1F",
+   "bank": 10,
+   "addr": 28291
+  },
+  {
+   "label": "SLOWPOKE_WELL_B2F",
+   "bank": 10,
+   "addr": 28338
+  },
+  {
+   "label": "ILEX_FOREST",
+   "bank": 10,
+   "addr": 28385
+  },
+  {
+   "label": "MOUNT_MORTAR_1F_OUTSIDE",
+   "bank": 10,
+   "addr": 28432
+  },
+  {
+   "label": "MOUNT_MORTAR_1F_INSIDE",
+   "bank": 10,
+   "addr": 28479
+  },
+  {
+   "label": "MOUNT_MORTAR_2F_INSIDE",
+   "bank": 10,
+   "addr": 28526
+  },
+  {
+   "label": "MOUNT_MORTAR_B1F",
+   "bank": 10,
+   "addr": 28573
+  },
+  {
+   "label": "ICE_PATH_1F",
+   "bank": 10,
+   "addr": 28620
+  },
+  {
+   "label": "ICE_PATH_B1F",
+   "bank": 10,
+   "addr": 28667
+  },
+  {
+   "label": "ICE_PATH_B2F_MAHOGANY_SIDE",
+   "bank": 10,
+   "addr": 28714
+  },
+  {
+   "label": "ICE_PATH_B2F_BLACKTHORN_SIDE",
+   "bank": 10,
+   "addr": 28761
+  },
+  {
+   "label": "ICE_PATH_B3F",
+   "bank": 10,
+   "addr": 28808
+  },
+  {
+   "label": "WHIRL_ISLAND_NW",
+   "bank": 10,
+   "addr": 28855
+  },
+  {
+   "label": "WHIRL_ISLAND_NE",
+   "bank": 10,
+   "addr": 28902
+  },
+  {
+   "label": "WHIRL_ISLAND_SW",
+   "bank": 10,
+   "addr": 28949
+  },
+  {
+   "label": "WHIRL_ISLAND_CAVE",
+   "bank": 10,
+   "addr": 28996
+  },
+  {
+   "label": "WHIRL_ISLAND_SE",
+   "bank": 10,
+   "addr": 29043
+  },
+  {
+   "label": "WHIRL_ISLAND_B1F",
+   "bank": 10,
+   "addr": 29090
+  },
+  {
+   "label": "WHIRL_ISLAND_B2F",
+   "bank": 10,
+   "addr": 29137
+  },
+  {
+   "label": "WHIRL_ISLAND_LUGIA_CHAMBER",
+   "bank": 10,
+   "addr": 29184
+  },
+  {
+   "label": "SILVER_CAVE_ROOM_1",
+   "bank": 10,
+   "addr": 29231
+  },
+  {
+   "label": "SILVER_CAVE_ROOM_2",
+   "bank": 10,
+   "addr": 29278
+  },
+  {
+   "label": "SILVER_CAVE_ROOM_3",
+   "bank": 10,
+   "addr": 29325
+  },
+  {
+   "label": "SILVER_CAVE_ITEM_ROOMS",
+   "bank": 10,
+   "addr": 29372
+  },
+  {
+   "label": "DARK_CAVE_VIOLET_ENTRANCE",
+   "bank": 10,
+   "addr": 29419
+  },
+  {
+   "label": "DARK_CAVE_BLACKTHORN_ENTRANCE",
+   "bank": 10,
+   "addr": 29466
+  },
+  {
+   "label": "ROUTE_29",
+   "bank": 10,
+   "addr": 29513
+  },
+  {
+   "label": "ROUTE_30",
+   "bank": 10,
+   "addr": 29560
+  },
+  {
+   "label": "ROUTE_31",
+   "bank": 10,
+   "addr": 29607
+  },
+  {
+   "label": "ROUTE_32",
+   "bank": 10,
+   "addr": 29654
+  },
+  {
+   "label": "ROUTE_33",
+   "bank": 10,
+   "addr": 29701
+  },
+  {
+   "label": "ROUTE_34",
+   "bank": 10,
+   "addr": 29748
+  },
+  {
+   "label": "ROUTE_35",
+   "bank": 10,
+   "addr": 29795
+  },
+  {
+   "label": "ROUTE_36",
+   "bank": 10,
+   "addr": 29842
+  },
+  {
+   "label": "ROUTE_37",
+   "bank": 10,
+   "addr": 29889
+  },
+  {
+   "label": "ROUTE_38",
+   "bank": 10,
+   "addr": 29936
+  },
+  {
+   "label": "ROUTE_39",
+   "bank": 10,
+   "addr": 29983
+  },
+  {
+   "label": "ROUTE_42",
+   "bank": 10,
+   "addr": 30030
+  },
+  {
+   "label": "ROUTE_43",
+   "bank": 10,
+   "addr": 30077
+  },
+  {
+   "label": "ROUTE_44",
+   "bank": 10,
+   "addr": 30124
+  },
+  {
+   "label": "ROUTE_45",
+   "bank": 10,
+   "addr": 30171
+  },
+  {
+   "label": "ROUTE_46",
+   "bank": 10,
+   "addr": 30218
+  },
+  {
+   "label": "SILVER_CAVE_OUTSIDE",
+   "bank": 10,
+   "addr": 30265
+  },
+  {
+   "label": "Kanto_DIGLETTS_CAVE",
+   "bank": 10,
+   "addr": 30656
+  },
+  {
+   "label": "Kanto_MOUNT_MOON",
+   "bank": 10,
+   "addr": 30703
+  },
+  {
+   "label": "Kanto_ROCK_TUNNEL_1F",
+   "bank": 10,
+   "addr": 30750
+  },
+  {
+   "label": "Kanto_ROCK_TUNNEL_B1F",
+   "bank": 10,
+   "addr": 30797
+  },
+  {
+   "label": "Kanto_VICTORY_ROAD",
+   "bank": 10,
+   "addr": 30844
+  },
+  {
+   "label": "Kanto_TOHJO_FALLS",
+   "bank": 10,
+   "addr": 30891
+  },
+  {
+   "label": "Kanto_ROUTE_1",
+   "bank": 10,
+   "addr": 30938
+  },
+  {
+   "label": "Kanto_ROUTE_2",
+   "bank": 10,
+   "addr": 30985
+  },
+  {
+   "label": "Kanto_ROUTE_3",
+   "bank": 10,
+   "addr": 31032
+  },
+  {
+   "label": "Kanto_ROUTE_4",
+   "bank": 10,
+   "addr": 31079
+  },
+  {
+   "label": "Kanto_ROUTE_5",
+   "bank": 10,
+   "addr": 31126
+  },
+  {
+   "label": "Kanto_ROUTE_6",
+   "bank": 10,
+   "addr": 31173
+  },
+  {
+   "label": "Kanto_ROUTE_7",
+   "bank": 10,
+   "addr": 31220
+  },
+  {
+   "label": "Kanto_ROUTE_8",
+   "bank": 10,
+   "addr": 31267
+  },
+  {
+   "label": "Kanto_ROUTE_9",
+   "bank": 10,
+   "addr": 31314
+  },
+  {
+   "label": "Kanto_ROUTE_10_NORTH",
+   "bank": 10,
+   "addr": 31361
+  },
+  {
+   "label": "Kanto_ROUTE_11",
+   "bank": 10,
+   "addr": 31408
+  },
+  {
+   "label": "Kanto_ROUTE_13",
+   "bank": 10,
+   "addr": 31455
+  },
+  {
+   "label": "Kanto_ROUTE_14",
+   "bank": 10,
+   "addr": 31502
+  },
+  {
+   "label": "Kanto_ROUTE_15",
+   "bank": 10,
+   "addr": 31549
+  },
+  {
+   "label": "Kanto_ROUTE_16",
+   "bank": 10,
+   "addr": 31596
+  },
+  {
+   "label": "Kanto_ROUTE_17",
+   "bank": 10,
+   "addr": 31643
+  },
+  {
+   "label": "Kanto_ROUTE_18",
+   "bank": 10,
+   "addr": 31690
+  },
+  {
+   "label": "Kanto_ROUTE_21",
+   "bank": 10,
+   "addr": 31737
+  },
+  {
+   "label": "Kanto_ROUTE_22",
+   "bank": 10,
+   "addr": 31784
+  },
+  {
+   "label": "Kanto_ROUTE_24",
+   "bank": 10,
+   "addr": 31831
+  },
+  {
+   "label": "Kanto_ROUTE_25",
+   "bank": 10,
+   "addr": 31878
+  },
+  {
+   "label": "Kanto_ROUTE_26",
+   "bank": 10,
+   "addr": 31925
+  },
+  {
+   "label": "Kanto_ROUTE_27",
+   "bank": 10,
+   "addr": 31972
+  },
+  {
+   "label": "Kanto_ROUTE_28",
+   "bank": 10,
+   "addr": 32019
+  }
+ ],
+ "water": [
+  {
+   "label": "RUINS_OF_ALPH_OUTSIDE",
+   "bank": 10,
+   "addr": 30313
+  },
+  {
+   "label": "UNION_CAVE_1F",
+   "bank": 10,
+   "addr": 30322
+  },
+  {
+   "label": "UNION_CAVE_B1F",
+   "bank": 10,
+   "addr": 30331
+  },
+  {
+   "label": "UNION_CAVE_B2F",
+   "bank": 10,
+   "addr": 30340
+  },
+  {
+   "label": "SLOWPOKE_WELL_B1F",
+   "bank": 10,
+   "addr": 30349
+  },
+  {
+   "label": "SLOWPOKE_WELL_B2F",
+   "bank": 10,
+   "addr": 30358
+  },
+  {
+   "label": "ILEX_FOREST",
+   "bank": 10,
+   "addr": 30367
+  },
+  {
+   "label": "MOUNT_MORTAR_1F_OUTSIDE",
+   "bank": 10,
+   "addr": 30376
+  },
+  {
+   "label": "MOUNT_MORTAR_2F_INSIDE",
+   "bank": 10,
+   "addr": 30385
+  },
+  {
+   "label": "MOUNT_MORTAR_B1F",
+   "bank": 10,
+   "addr": 30394
+  },
+  {
+   "label": "WHIRL_ISLAND_SW",
+   "bank": 10,
+   "addr": 30403
+  },
+  {
+   "label": "WHIRL_ISLAND_B2F",
+   "bank": 10,
+   "addr": 30412
+  },
+  {
+   "label": "WHIRL_ISLAND_LUGIA_CHAMBER",
+   "bank": 10,
+   "addr": 30421
+  },
+  {
+   "label": "SILVER_CAVE_ROOM_2",
+   "bank": 10,
+   "addr": 30430
+  },
+  {
+   "label": "DARK_CAVE_VIOLET_ENTRANCE",
+   "bank": 10,
+   "addr": 30439
+  },
+  {
+   "label": "DARK_CAVE_BLACKTHORN_ENTRANCE",
+   "bank": 10,
+   "addr": 30448
+  },
+  {
+   "label": "DRAGONS_DEN_B1F",
+   "bank": 10,
+   "addr": 30457
+  },
+  {
+   "label": "ROUTE_30",
+   "bank": 10,
+   "addr": 30466
+  },
+  {
+   "label": "ROUTE_31",
+   "bank": 10,
+   "addr": 30475
+  },
+  {
+   "label": "ROUTE_32",
+   "bank": 10,
+   "addr": 30484
+  },
+  {
+   "label": "ROUTE_34",
+   "bank": 10,
+   "addr": 30493
+  },
+  {
+   "label": "ROUTE_35",
+   "bank": 10,
+   "addr": 30502
+  },
+  {
+   "label": "ROUTE_40",
+   "bank": 10,
+   "addr": 30511
+  },
+  {
+   "label": "ROUTE_41",
+   "bank": 10,
+   "addr": 30520
+  },
+  {
+   "label": "ROUTE_42",
+   "bank": 10,
+   "addr": 30529
+  },
+  {
+   "label": "ROUTE_43",
+   "bank": 10,
+   "addr": 30538
+  },
+  {
+   "label": "ROUTE_44",
+   "bank": 10,
+   "addr": 30547
+  },
+  {
+   "label": "ROUTE_45",
+   "bank": 10,
+   "addr": 30556
+  },
+  {
+   "label": "NEW_BARK_TOWN",
+   "bank": 10,
+   "addr": 30565
+  },
+  {
+   "label": "CHERRYGROVE_CITY",
+   "bank": 10,
+   "addr": 30574
+  },
+  {
+   "label": "VIOLET_CITY",
+   "bank": 10,
+   "addr": 30583
+  },
+  {
+   "label": "CIANWOOD_CITY",
+   "bank": 10,
+   "addr": 30592
+  },
+  {
+   "label": "OLIVINE_CITY",
+   "bank": 10,
+   "addr": 30601
+  },
+  {
+   "label": "ECRUTEAK_CITY",
+   "bank": 10,
+   "addr": 30610
+  },
+  {
+   "label": "LAKE_OF_RAGE",
+   "bank": 10,
+   "addr": 30619
+  },
+  {
+   "label": "BLACKTHORN_CITY",
+   "bank": 10,
+   "addr": 30628
+  },
+  {
+   "label": "SILVER_CAVE_OUTSIDE",
+   "bank": 10,
+   "addr": 30637
+  },
+  {
+   "label": "OLIVINE_PORT",
+   "bank": 10,
+   "addr": 30646
+  },
+  {
+   "label": "ROUTE_4",
+   "bank": 10,
+   "addr": 32067
+  },
+  {
+   "label": "ROUTE_6",
+   "bank": 10,
+   "addr": 32076
+  },
+  {
+   "label": "ROUTE_9",
+   "bank": 10,
+   "addr": 32085
+  },
+  {
+   "label": "ROUTE_10_NORTH",
+   "bank": 10,
+   "addr": 32094
+  },
+  {
+   "label": "ROUTE_12",
+   "bank": 10,
+   "addr": 32103
+  },
+  {
+   "label": "ROUTE_13",
+   "bank": 10,
+   "addr": 32112
+  },
+  {
+   "label": "ROUTE_19",
+   "bank": 10,
+   "addr": 32121
+  },
+  {
+   "label": "ROUTE_20",
+   "bank": 10,
+   "addr": 32130
+  },
+  {
+   "label": "ROUTE_21",
+   "bank": 10,
+   "addr": 32139
+  },
+  {
+   "label": "ROUTE_22",
+   "bank": 10,
+   "addr": 32148
+  },
+  {
+   "label": "ROUTE_24",
+   "bank": 10,
+   "addr": 32157
+  },
+  {
+   "label": "ROUTE_25",
+   "bank": 10,
+   "addr": 32166
+  },
+  {
+   "label": "ROUTE_26",
+   "bank": 10,
+   "addr": 32175
+  },
+  {
+   "label": "ROUTE_27",
+   "bank": 10,
+   "addr": 32184
+  },
+  {
+   "label": "TOHJO_FALLS",
+   "bank": 10,
+   "addr": 32193
+  },
+  {
+   "label": "ROUTE_28",
+   "bank": 10,
+   "addr": 32202
+  },
+  {
+   "label": "PALLET_TOWN",
+   "bank": 10,
+   "addr": 32211
+  },
+  {
+   "label": "VIRIDIAN_CITY",
+   "bank": 10,
+   "addr": 32220
+  },
+  {
+   "label": "CERULEAN_CITY",
+   "bank": 10,
+   "addr": 32229
+  },
+  {
+   "label": "VERMILION_CITY",
+   "bank": 10,
+   "addr": 32238
+  },
+  {
+   "label": "CELADON_CITY",
+   "bank": 10,
+   "addr": 32247
+  },
+  {
+   "label": "FUCHSIA_CITY",
+   "bank": 10,
+   "addr": 32256
+  },
+  {
+   "label": "CINNABAR_ISLAND",
+   "bank": 10,
+   "addr": 32265
+  },
+  {
+   "label": "VERMILION_PORT",
+   "bank": 10,
+   "addr": 32274
+  }
+ ]
+}

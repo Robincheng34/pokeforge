@@ -1,0 +1,332 @@
+[
+ {
+  "label": "FalknerGroup",
+  "bank": 14,
+  "addr": 22978
+ },
+ {
+  "label": "WhitneyGroup",
+  "bank": 14,
+  "addr": 23000
+ },
+ {
+  "label": "BugsyGroup",
+  "bank": 14,
+  "addr": 23022
+ },
+ {
+  "label": "MortyGroup",
+  "bank": 14,
+  "addr": 23048
+ },
+ {
+  "label": "PryceGroup",
+  "bank": 14,
+  "addr": 23080
+ },
+ {
+  "label": "JasmineGroup",
+  "bank": 14,
+  "addr": 23106
+ },
+ {
+  "label": "ChuckGroup",
+  "bank": 14,
+  "addr": 23134
+ },
+ {
+  "label": "ClairGroup",
+  "bank": 14,
+  "addr": 23154
+ },
+ {
+  "label": "Rival1Group",
+  "bank": 14,
+  "addr": 23186
+ },
+ {
+  "label": "PokemonProfGroup",
+  "bank": 14,
+  "addr": 23540
+ },
+ {
+  "label": "WillGroup",
+  "bank": 14,
+  "addr": 23540
+ },
+ {
+  "label": "PKMNTrainerGroup",
+  "bank": 14,
+  "addr": 23577
+ },
+ {
+  "label": "BrunoGroup",
+  "bank": 14,
+  "addr": 23613
+ },
+ {
+  "label": "KarenGroup",
+  "bank": 14,
+  "addr": 23651
+ },
+ {
+  "label": "KogaGroup",
+  "bank": 14,
+  "addr": 23689
+ },
+ {
+  "label": "ChampionGroup",
+  "bank": 14,
+  "addr": 23726
+ },
+ {
+  "label": "BrockGroup",
+  "bank": 14,
+  "addr": 23770
+ },
+ {
+  "label": "MistyGroup",
+  "bank": 14,
+  "addr": 23808
+ },
+ {
+  "label": "LtSurgeGroup",
+  "bank": 14,
+  "addr": 23840
+ },
+ {
+  "label": "ScientistGroup",
+  "bank": 14,
+  "addr": 23881
+ },
+ {
+  "label": "ErikaGroup",
+  "bank": 14,
+  "addr": 23940
+ },
+ {
+  "label": "YoungsterGroup",
+  "bank": 14,
+  "addr": 23972
+ },
+ {
+  "label": "SchoolboyGroup",
+  "bank": 14,
+  "addr": 24110
+ },
+ {
+  "label": "BirdKeeperGroup",
+  "bank": 14,
+  "addr": 24325
+ },
+ {
+  "label": "LassGroup",
+  "bank": 14,
+  "addr": 24540
+ },
+ {
+  "label": "JanineGroup",
+  "bank": 14,
+  "addr": 24760
+ },
+ {
+  "label": "CooltrainerMGroup",
+  "bank": 14,
+  "addr": 24799
+ },
+ {
+  "label": "CooltrainerFGroup",
+  "bank": 14,
+  "addr": 25123
+ },
+ {
+  "label": "BeautyGroup",
+  "bank": 14,
+  "addr": 25407
+ },
+ {
+  "label": "PokemaniacGroup",
+  "bank": 14,
+  "addr": 25630
+ },
+ {
+  "label": "GruntMGroup",
+  "bank": 14,
+  "addr": 25778
+ },
+ {
+  "label": "GentlemanGroup",
+  "bank": 14,
+  "addr": 26174
+ },
+ {
+  "label": "SkierGroup",
+  "bank": 14,
+  "addr": 26235
+ },
+ {
+  "label": "TeacherGroup",
+  "bank": 14,
+  "addr": 26260
+ },
+ {
+  "label": "SabrinaGroup",
+  "bank": 14,
+  "addr": 26298
+ },
+ {
+  "label": "BugCatcherGroup",
+  "bank": 14,
+  "addr": 26326
+ },
+ {
+  "label": "FisherGroup",
+  "bank": 14,
+  "addr": 26487
+ },
+ {
+  "label": "SwimmerMGroup",
+  "bank": 14,
+  "addr": 26792
+ },
+ {
+  "label": "SwimmerFGroup",
+  "bank": 14,
+  "addr": 27079
+ },
+ {
+  "label": "SailorGroup",
+  "bank": 14,
+  "addr": 27308
+ },
+ {
+  "label": "SuperNerdGroup",
+  "bank": 14,
+  "addr": 27468
+ },
+ {
+  "label": "Rival2Group",
+  "bank": 14,
+  "addr": 27608
+ },
+ {
+  "label": "GuitaristGroup",
+  "bank": 14,
+  "addr": 27848
+ },
+ {
+  "label": "HikerGroup",
+  "bank": 14,
+  "addr": 27876
+ },
+ {
+  "label": "BikerGroup",
+  "bank": 14,
+  "addr": 28156
+ },
+ {
+  "label": "BlaineGroup",
+  "bank": 14,
+  "addr": 28272
+ },
+ {
+  "label": "BurglarGroup",
+  "bank": 14,
+  "addr": 28299
+ },
+ {
+  "label": "FirebreatherGroup",
+  "bank": 14,
+  "addr": 28350
+ },
+ {
+  "label": "JugglerGroup",
+  "bank": 14,
+  "addr": 28438
+ },
+ {
+  "label": "BlackbeltGroup",
+  "bank": 14,
+  "addr": 28517
+ },
+ {
+  "label": "ExecutiveMGroup",
+  "bank": 14,
+  "addr": 28639
+ },
+ {
+  "label": "PsychicGroup",
+  "bank": 14,
+  "addr": 28753
+ },
+ {
+  "label": "PicnickerGroup",
+  "bank": 14,
+  "addr": 28935
+ },
+ {
+  "label": "CamperGroup",
+  "bank": 14,
+  "addr": 29183
+ },
+ {
+  "label": "ExecutiveFGroup",
+  "bank": 14,
+  "addr": 29416
+ },
+ {
+  "label": "SageGroup",
+  "bank": 14,
+  "addr": 29476
+ },
+ {
+  "label": "MediumGroup",
+  "bank": 14,
+  "addr": 29585
+ },
+ {
+  "label": "BoarderGroup",
+  "bank": 14,
+  "addr": 29672
+ },
+ {
+  "label": "PokefanMGroup",
+  "bank": 14,
+  "addr": 29714
+ },
+ {
+  "label": "KimonoGirlGroup",
+  "bank": 14,
+  "addr": 29887
+ },
+ {
+  "label": "TwinsGroup",
+  "bank": 14,
+  "addr": 29947
+ },
+ {
+  "label": "PokefanFGroup",
+  "bank": 14,
+  "addr": 30091
+ },
+ {
+  "label": "RedGroup",
+  "bank": 14,
+  "addr": 30165
+ },
+ {
+  "label": "BlueGroup",
+  "bank": 14,
+  "addr": 30207
+ },
+ {
+  "label": "OfficerGroup",
+  "bank": 14,
+  "addr": 30250
+ },
+ {
+  "label": "GruntFGroup",
+  "bank": 14,
+  "addr": 30271
+ }
+]
